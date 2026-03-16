@@ -27,3 +27,18 @@ The script reads `treeStructure.txt` and creates the folders and files automatic
 * 4 spaces = new level
 * names with `.` are treated as files
 * names without `.` are folders
+
+### Generated Structure
+
+```text
+projectName
+├── src
+│   ├── main.py
+│   └── utils
+│       └── helper.py
+├── docs
+│   └── README.md
+└── config
+    └── settings.json
+```
+
