@@ -17,7 +17,7 @@ myProject
 ## Usage
 
 ```
-python scaffold.py
+python scaffold.py treeStructure.txt
 ```
 
 The script reads `treeStructure.txt` and creates the folders and files automatically.
